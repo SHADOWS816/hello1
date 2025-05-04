@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0A34-5E8A
+
+ Directory of C:\Users\Tanish\Documents\github new
+
+04-05-2025  14:16    <DIR>          .
+04-05-2025  12:57    <DIR>          ..
+04-05-2025  14:17                 0 hello.txt
+04-05-2025  12:58                 0 new.txt
+               2 File(s)              0 bytes
+               2 Dir(s)   6,437,801,984 bytes free
